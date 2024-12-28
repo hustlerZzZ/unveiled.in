@@ -1,7 +1,6 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { Josefin_Sans } from "next/font/google";
-import Footer from "@/components/essentitals/footer";
 import Navbar from "@/components/essentitals/navbar";
 import { ThemeProvider } from "@/components/ui/theme-provider";
 

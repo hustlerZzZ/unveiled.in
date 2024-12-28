@@ -1,10 +1,9 @@
-import Link from "next/link";
 import Logo from "./logo";
 import { ModeToggle } from "./theme";
 
 function Navbar() {
     return (
-        <header className="flex justify-between container mx-auto mt-8">
+        <header className="flex justify-between container mx-auto mt-8 px-4 md:px-0">
             <div>
                 <Logo />
             </div>
